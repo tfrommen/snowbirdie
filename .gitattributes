@@ -1,0 +1,7 @@
+* text eol=lf
+
+*.jpg binary
+
+/.editorconfig export-ignore
+/.gitattributes export-ignore
+/.gitignore export-ignore

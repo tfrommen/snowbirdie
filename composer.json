@@ -1,0 +1,38 @@
+{
+  "name": "tfrommen/snowbirdie",
+  "description": "A Snowbird child theme.",
+  "type": "wordpress-theme",
+  "keywords": [
+    "blog",
+    "custom-colors",
+    "custom-header",
+    "custom-menu",
+    "editor-style",
+    "featured-images",
+    "left-sidebar",
+    "microformats",
+    "right-sidebar",
+    "sticky-post",
+    "theme",
+    "theme-options",
+    "threaded-comments",
+    "translation-ready",
+    "wordpress"
+  ],
+  "license": "GPL-2.0",
+  "authors": [
+    {
+      "name": "Thorsten Frommen",
+      "email": "info@tfrommen.de",
+      "homepage": "https://tfrommen.de",
+      "role": "Developer"
+    }
+  ],
+  "support": {
+    "issues": "https://github.com/tfrommen/snowbirdie/issues",
+    "source": "https://github.com/tfrommen/snowbirdie"
+  },
+  "require": {
+    "php": ">=5.4.0"
+  }
+}

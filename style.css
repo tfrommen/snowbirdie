@@ -1,0 +1,66 @@
+/*
+ * Theme Name:  Snowbirdie
+ * Theme URI:   https://gihub.com/tfrommen/snowbirdie
+ * Description: A Snowbird child theme.
+ * Author:      Thorsten Frommen
+ * Author URI:  https://tfrommen.de
+ * Template:    snowbird
+ * Version:     1.1.0
+ * License:     GNU General Public License v2 or later
+ * License URI: http://www.gnu.org/licenses/gpl-2.0.html
+ * Tags:        blog, left-sidebar, right-sidebar, custom-colors, custom-header, custom-menu, editor-style, featured-images, microformats, sticky-post, theme-options, threaded-comments, translation-ready
+ * Text Domain: snowbirdie
+ */
+
+@media screen and (min-width: 1280px) {
+	.xf__container {
+		width: 1280px;
+	}
+}
+
+.xf__feaured-image figcaption {
+	font-size: .65em;
+	text-align: center;
+	opacity: .65;
+}
+
+.xf__post-wrapper a:hover {
+	text-decoration: underline;
+}
+
+.xf__post-wrapper .xf__post-header a:hover,
+.xf__post-wrapper .xf__post-footer a:hover,
+.xf__post-wrapper a.xf__button:hover {
+	text-decoration: none;
+}
+
+.xf__footer * + .xf__container {
+	margin-top: 60px;
+}
+
+#comments .avatar {
+	border-radius: 50%;
+}
+
+@media screen and (max-width: 667px) {
+	.xf__post-wrapper .xf__entry-container {
+		display: table;
+		table-layout: fixed;
+	}
+	
+	.xf__author-bio {
+		display: table-footer-group;
+	}
+	
+	.xf__post-footer {
+		margin-bottom: 62px;
+	}
+}
+
+.widget_archive ul li,
+.widget_categories ul li,
+.widget_meta ul li,
+.widget_nav_menu ul li,
+.widget_pages ul li {
+	margin-bottom: 15px;
+}
