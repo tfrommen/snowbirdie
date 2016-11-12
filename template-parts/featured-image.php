@@ -16,7 +16,7 @@ if ( has_post_thumbnail() && ! post_password_required() && ! is_attachment() ) :
 			if ( ! empty( $post_tumbnail->post_excerpt ) ) {
 				printf(
 					'<figcaption>%s</figcaption>',
-					$post_tumbnail->post_excerpt
+					wp_kses_post( $post_tumbnail->post_excerpt )
 				);
 			}
 
