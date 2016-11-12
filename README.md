@@ -2,6 +2,18 @@
 
 > A [Snowbird](https://wordpress.org/themes/snowbird/) child theme.
 
+## Installation
+
+Snowbirdie provides a `composer.json` file so you can install it via [Composer](https://getcomposer.org/):
+
+```shell
+$ composer require tfrommen/snowbirdie
+```
+
+You can also just [use the generated ZIP file](https://github.com/tfrommen/snowbirdie/releases).
+
+**Notice:** Since Snowbirdie is a **child theme**, you need to have [Snowbird](https://wordpress.org/themes/snowbird/) installed as well.
+
 ## Changes
 
 The following sections list all changes (i.e., customizations as well as additions) that will be put in effect when installing Snowbirdie.
