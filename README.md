@@ -91,7 +91,7 @@ Snowbirdie always lists the author (i.e., avatar and name) of each post, no matt
 
 #### Post Meta
 
-Snowbirdie also includes the number of comments in the post meta section.
+For single post view, Snowbirdie also includes the number of comments in the post meta section.
 
 ![Comments in Post Meta](images/comments-in-post-meta.jpg)
 
