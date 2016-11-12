@@ -2,6 +2,17 @@
 
 > A [Snowbird](https://wordpress.org/themes/snowbird/) child theme.
 
+## Table of Contents
+
+* [Installation](#installation)
+* [Changes](#changes)
+  * [Actions](#actions)
+  * [Additions](#additions)
+  * [Style](#style)
+  * [Template Parts](#template-parts)
+* [Demo](#demo)
+* [License](#license)
+
 ## Installation
 
 Snowbirdie provides a `composer.json` file so you can install it via [Composer](https://getcomposer.org/):
