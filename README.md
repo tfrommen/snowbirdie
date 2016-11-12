@@ -54,7 +54,7 @@ Snowbirdie uses a content width of 1280 pixels (instead of the original 1110 pix
 
 #### Excerpt
 
-Snowbirdie displays a Read More button below ever excerpt, no matter if generated or not.
+Snowbirdie displays a Read More button below every excerpt, no matter if generated or not.
 
 ![Read More Button](images/read-more.jpg)
 
